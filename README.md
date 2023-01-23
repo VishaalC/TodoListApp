@@ -1,5 +1,5 @@
 # TodoListApp
-To-do list app capable of adding and deleting items made using Xamarin and C#
+To-do list app capable of adding and deleting items made using Xamarin and C#.
 
 Screenshot of app running on an Android phone
 
